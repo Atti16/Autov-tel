@@ -1,119 +1,103 @@
-Sizes:
-	XS (height 4'8" - 5'2") - 27.5" Wheel
-	S (height 5'1" - 5'5") - 27.5" Wheel
-	M (height 5'4" - 5'7") - 27.5" Wheel
-	M (height 5'5" - 5'8") - 29" Wheel
-	L (height 5'8" - 6'1") - 29" Wheel
-	XL (height 6'1" - 6'4") - 29" Wheel
-Colors:
-	Blue,
-	Grey,
-	Black,
-	Yellow
-Marin Bolinas Ridge 1
-	id: 1
-	description: Suntour Xcm 100mm Suspension Fork
-				Shimano 3x7 Speed Durable Drivetrain
-				Power Cx7 Powerful Mechanical Disc Brakes
-				Modern Trail Geometry With Low Standover
-	size: 1..5
-	color: Blue, Grey
-	qty: 2
-	supplierId: 485748
-	price: $599
-	reviewMark: 4.5
-	reviews: 2
-	lastPurchDate: 3/3/2022
-	originalLink: https://www.bikesonline.com/2022-marin-bolinas-ridge-1-mountain-bike
-Marin Bolinas Ridge 2
-	id: 2
-	description: Suntour XCM 100mm Suspension Fork
-				Shimano 3x8 Speed Durable Drivetrain
-				Tektro M275 Hydraulic Disc Brakes
-				Modern Trail Geometry With Low Standover
-	size: 1..5
-	color: Blue, Black
-	qty: 2
-	supplierId: 485748
-	price: $699
-	reviewMark: 5
-	reviews: 2
-	lastPurchDate: 3/3/2022
-	originalLink: https://www.bikesonline.com/2022-marin-bolinas-ridge-2-mountain-bike
-Marin Gestalt
-	id: 3
-	description: Series 2 Frame, Aluminum Fork
-			Shimano Claris 2x8 Speed Drivetrain
-			Promax Render R Road Mechanical Disc Brakes
-			WTB Exposure Comp 700x32c Tires
-	size: 1..5
-	color: Blue, Grey
-	qty: 2
-	supplierId: 485748
-	price: $1099
-	reviewMark: 5
-	reviews: 2
-	lastPurchDate: 3/3/2022
-	originalLink: https://www.bikesonline.com/2022-marin-gestalt-gravel-bike
-Polygon Strattos S5 - Shimano 105
-	id: 4
-	description: The new 2022 Polygon Strattos is designed to make every minute of your ride enjoyable as you push your limits. Be prepared to beat all your personal bests while conquering the tallest mountains in absolute comfort. 
-	size: 1..5
-	qty: 2
-	supplierId: 485748
-	price: $1299
-	reviewMark: 5
-	reviews: 4
-	lastPurchDate: 3/8/2022
-	originalLink: https://www.bikesonline.com/2022-polygon-strattos-s5-shimano-105-road-bike
-Marin Kentfield CS2 ST
-	id: 5
-	description: MicroSHIFT Advent X 10-Speed Wide Range Drivetrain
-		Power CX7 Mechanical Disc Brakes
-		VeeTire GPVee, 700x40, Flat Protection Tires
-	size: 1..5
-	color: Yellow, Grey
-	qty: 2
-	supplierId: 485748
-	price: $769
-	reviewMark: 5
-	reviews: 4
-	lastPurchDate: 3/8/2022
-	originalLink: https://www.bikesonline.com/2022-marin-kentfield-cs2-st-hybrid-bike
-Polygon Sierra Deluxe Sport
-	id: 6
-	description: Alutech 6061 alloy frame is lightweight, sturdy and comfortable
-			SR Suntour NEX commuter suspension fork delivers a responsive feel for the road
-			Shimano Altus / Tourney 21 Speed groupset giving you all the gears you need to ride with ease
-			Tektro Alloy V brakes handle stopping duties
-	size: 1..5
-	qty: 2
-	supplierId: 485748
-	price: $599
-	discount: $499
-	reviewMark: 5
-	reviews: 4
-	lastPurchDate: 3/8/2022
-	originalLink: https://www.bikesonline.com/polygon-sierra-deluxe-sport-men-city-bike
-Polygon Mt Bromo N7
-	id: 7
-	description: Mt Bromo N was engineered from a clean slate to deliver the mountain biking experience we dream of; trail bike agility with enduroesque composure, where climbs transform into fun and your descents triple.
-	size: 1..5
-	qty: 2
-	supplierId: 485748
-	price: $4399
-	reviewMark: 5
-	reviews: 4
-	lastPurchDate: 3/8/2022
-	originalLink: https://www.bikesonline.com/polygon-2021-polygon-mt-bromo-n7-dual-suspension-e
-Polygon Mt Bromo N8
-	id: 8
-	description: Mt Bromo N was engineered from a clean slate to deliver the mountain biking experience we dream of; trail bike agility with enduroesque composure, where climbs transform into fun and your descents triple.
-	size: 1..5
-	qty: 2
-	supplierId: 485748
-	price: $5999
-	reviewMark: 5
-	reviews: 4
-	lastPurchDate: 3/8/2022
-	originalLink: https://www.bikesonline.com/polygon-2022-polygon-mt-bromo-n8-dual-suspension-e
+Toyota Corolla
+id: 1
+leírás: 1.8L 4-hengeres motor, Folyamatosan változó sebességváltó, Toyota Safety Sense, Modern belső dizájn.
+méret: Kicsi, Közepes
+szín: Kék, Szürke
+mennyiség: 5
+beszállítóId: 123456
+ár: 6,500,000 Ft
+értékelés: 4.5
+értékelések száma: 200
+utolsó vásárlás dátuma: 2023.10.01.
+eredeti link: Toyota Corolla
+
+Honda Civic
+id: 2
+leírás: 2.0L 4-hengeres motor, Sportos dizájn, Fejlett biztonsági funkciók, Tágas utastér.
+méret: Kicsi, Közepes
+szín: Kék, Fekete
+mennyiség: 4
+beszállítóId: 123456
+ár: 7,000,000 Ft
+értékelés: 5
+értékelések száma: 150
+utolsó vásárlás dátuma: 2023.10.02.
+eredeti link: Honda Civic
+
+Ford F-150
+id: 3
+leírás: 3.3L V6 motor, Magas teherbírás, Fejlett vontatási funkciók, Tartós felépítés.
+méret: Nagy, XL
+szín: Szürke, Fekete
+mennyiség: 3
+beszállítóId: 123456
+ár: 8,500,000 Ft
+értékelés: 4.7
+értékelések száma: 300
+utolsó vásárlás dátuma: 2023.10.03.
+eredeti link: Ford F-150
+
+Tesla Model 3
+id: 4
+leírás: Teljesen elektromos hajtás, Autopilot képesség, Minimalista belső tér, Hosszú hatótáv.
+méret: Kicsi, Közepes
+szín: Kék, Szürke
+mennyiség: 2
+beszállítóId: 123456
+ár: 12,000,000 Ft
+értékelés: 4.8
+értékelések száma: 250
+utolsó vásárlás dátuma: 2023.10.04.
+eredeti link: Tesla Model 3
+
+Chevrolet Silverado 1500
+id: 5
+leírás: 2.7L Turbo motor, Fejlett vontatási rendszer, Tágas kabin, Magas tartósság.
+méret: Nagy, XL
+szín: Sárga, Fekete
+mennyiség: 3
+beszállítóId: 123456
+ár: 9,000,000 Ft
+értékelés: 4.6
+értékelések száma: 180
+utolsó vásárlás dátuma: 2023.10.05.
+
+Volkswagen Golf
+id: 6
+leírás: 1.4L TSI motor, Sportos vezetési élmény, Fejlett infotainment rendszer, Tágas belső tér.
+méret: Kicsi, Közepes
+szín: Kék, Szürke
+mennyiség: 4
+beszállítóId: 123456
+ár: 7,500,000 Ft
+értékelés: 4.5
+értékelések száma: 220
+utolsó vásárlás dátuma: 2023.10.06.
+eredeti link: Volkswagen Golf
+
+Mazda CX-5
+id: 7
+leírás: 2.5L Skyactiv motor, Sportos SUV dizájn, Fejlett biztonsági rendszerek, Tágas csomagtér.
+méret: Közepes, Nagy
+szín: Szürke, Fekete
+mennyiség: 3
+beszállítóId: 123456
+ár: 10,000,000 Ft
+értékelés: 4.8
+értékelések száma: 180
+utolsó vásárlás dátuma: 2023.10.07.
+eredeti link: Mazda CX-5
+
+Hyundai Tucson
+id: 8
+leírás: 2.0L GDI motor, Modern SUV dizájn, Fejlett infotainment és navigációs rendszer, Tágas utastér.
+méret: Közepes, Nagy
+szín: Kék, Sárga
+mennyiség: 5
+beszállítóId: 123456
+ár: 9,200,000 Ft
+értékelés: 4.7
+értékelések száma: 160
+utolsó vásárlás dátuma: 2023.10.08.
+eredeti link: Hyundai Tucson
+
