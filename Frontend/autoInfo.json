@@ -1,0 +1,92 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Toyota Corolla",
+    "description": "A Toyota Corolla megbízható és gazdaságos autó, amely kényelmes utazást biztosít. Modern dizájn, fejlett biztonsági funkciók és energiatakarékos motor.",
+    "rate": "4.5",
+    "price": "5990000",
+    "imgSufix": [
+      " Kék",
+      " Szürke",
+      " Fotó"
+    ]
+  },
+  "2": {
+    "id": "2",
+    "name": "Honda Civic",
+    "description": "A Honda Civic sportos megjelenésével és dinamikus teljesítményével kiemelkedik a kategóriájában. Tágas belső tér és modern technológia jellemzi.",
+    "rate": "5",
+    "price": "6990000",
+    "imgSufix": [
+      " Fekete",
+      " Kék"
+    ]
+  },
+  "3": {
+    "id": "3",
+    "name": "Volkswagen Golf",
+    "description": "A Volkswagen Golf ikonikus kisautó, amely a stílus és a funkcionalitás tökéletes kombinációját kínálja. Kiváló vezetési élmény és gazdaságos üzemeltetés.",
+    "rate": "5",
+    "price": "10990000",
+    "imgSufix": [
+      " Kék",
+      " Szürke",
+      " Fotó"
+    ]
+  },
+  "4": {
+    "id": "4",
+    "name": "Mazda 3",
+    "description": "A 2022-es Mazda 3 sportos dizájnnal és kiváló vezetési élménnyel rendelkezik. Erőteljes motorok és kényelmes belső tér jellemzi.",
+    "rate": "5",
+    "price": "12990000",
+    "imgSufix": [
+      "",
+      " Fotó"
+    ]
+  },
+  "5": {
+    "id": "5",
+    "name": "Hyundai i30",
+    "description": "A Hyundai i30 modern dizájnja és fejlett technológiái révén kényelmes és biztonságos utazást biztosít. Tágas belső tér és gazdaságos motor.",
+    "rate": "5",
+    "price": "7690000",
+    "imgSufix": [
+      " Szürke",
+      " Sárga",
+      " Fotó"
+    ]
+  },
+  "6": {
+    "id": "6",
+    "name": "Kia Ceed",
+    "description": "A Kia Ceed stílusos megjelenésével és kényelmes utasterével ideális választás a családok számára. Fejlett biztonsági funkciók és gazdaságos üzemeltetés.",
+    "rate": "5",
+    "price": "5990000",
+    "imgSufix": [
+      ""
+    ]
+  },
+  "7": {
+    "id": "7",
+    "name": "Ford Focus",
+    "description": "A Ford Focus dinamikus vezetési élményt kínál, sportos megjelenéssel és fejlett technológiával. Kiváló kezelhetőség és kényelmes belső tér.",
+    "rate": "5",
+    "price": "4399000",
+    "imgSufix": [
+      "",
+      " Fotó"
+    ]
+  },
+  "8": {
+    "id": "8",
+    "name": "Peugeot 308",
+    "description": "A Peugeot 308 elegáns dizájnja és modern technológiái révén ideális választás a városi közlekedéshez. Kiváló üzemanyag-hatékonyság és kényelmes utazás.",
+    "rate": "5",
+    "price": "5990000",
+    "imgSufix": [
+      "",
+      " Fotó"
+    ]
+  }
+}

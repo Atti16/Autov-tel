@@ -1,0 +1,32 @@
+Kategóriák:
+
+SUV
+Sedan
+Hatchback
+Kupé
+Elektromos
+
+SUV:
+
+Toyota RAV4
+Ford Explorer
+
+Sedan:
+
+Honda Accord
+Toyota Camry
+
+Hatchback:
+
+Volkswagen Golf
+Ford Focus
+
+Coupe:
+
+Ford Mustang
+Chevrolet Camaro
+
+Elektromos:
+
+Tesla Model 3
+Nissan Leaf
